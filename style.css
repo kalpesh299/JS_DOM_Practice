@@ -1,0 +1,22 @@
+*{padding:0;
+margin: 0;}
+
+body{
+    width:100vw;
+    height:100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main{
+    width:40%;
+    height:100%;
+    display: flex;
+    padding-top: 10vh;
+    align-items: center;
+    flex-direction: column;
+    border: 2px solid red;
+}
+.main select{
+width:10%;
+}
